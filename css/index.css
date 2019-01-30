@@ -36,6 +36,17 @@ body{
 }
 
 
+.eventsul{
+  display: inline-block;
+  text-align: center;
+  list-style-type: circle;
+}
+
+.eventsli{
+  font-family: Ubuntu;
+  font-size: calc(.5em + 2vh);
+}
+
 .carousel-caption {
     top: 0;
     bottom: auto;
